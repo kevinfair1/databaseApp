@@ -1,0 +1,3 @@
+C:\Users\kevin\source\repos\databaseApp\Debug\databaseApp.vcxprojAssemblyReference.cache
+C:\Users\kevin\source\repos\databaseApp\Debug\databaseApp.exe
+C:\Users\kevin\source\repos\databaseApp\Debug\databaseApp.pdb
